@@ -1,0 +1,107 @@
+body {
+  background-color: #473A8D;
+  margin: 0px;
+  padding: 0px;
+}
+.main-body {
+  margin-top: 200px;
+}
+.heading {
+  color: white;
+}
+/* buttons styles */
+.play-btn {
+  width: 60px;
+  height: 30px;
+  background-color: rgb(35, 214, 35);
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 40px;
+  width: 130px;
+  color: white;
+}
+.play {
+  margin-top: auto;
+}
+.optionBtn {
+  width: 390px;
+  height: 40px;
+  color: white;
+  border-radius: 30px;
+  border: 3px solid white;
+  background-color: rgb(90, 165, 234);
+}
+.previousBtn {
+  background-color: rgb(60, 111, 222);
+  width: 65px;
+  height: 25px;
+  border: 0px solid white;
+}
+.nextBtn {
+  background-color: rgb(32, 142, 34);
+  width: 60px;
+  height: 25px;
+  border: 0px solid white;
+}
+.quitName {
+  background-color: red;
+  width: 60px;
+  height: 25px;
+  border: 0px solid white;
+}
+.playagain {
+  width: 120px;
+  padding-top: 5px;
+  border: 4px solid rgb(96,91,181);
+  color: rgb(96,91,181);
+}
+.back2home {
+  width: 120px;
+  padding-top: 5px;
+  border: 4px solid rgb(96,168,93);
+  color: rgb(96,168,93);
+}
+/* quizcomponent styles */
+.question {
+  margin-top: 30px;
+  margin-bottom: 70px;
+}
+.options-1 {
+  margin: 15px;
+}
+.options-3 {
+  margin-top: 30px;
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+.main-body-2 {
+  background-color: white;
+  width: 900px;
+  height: 400px;
+  padding-top: 30px;
+  margin-top: 80px;
+  margin-left: 250px;
+}
+/* resultcomponent styles */
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+.main-body-3 {
+  width: 700px;
+  background-color: white;
+  height: 350px;
+  padding-top: 30px;
+}
+.result {
+  color:green;
+}
+.result-tag {
+  color: blue;
+}
+.flex-1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
